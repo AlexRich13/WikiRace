@@ -1,9 +1,7 @@
-﻿//NOT TO BE RAN ON .NETFIDDLE WITH PATH LENGTH > 3, USE VISUAL STUDIO INSTEAD
-
-// (remove from comments for use here) using System;
-// (remove from comments for use here) using System.Collections.Generic;
-using System.Net; //keep line for use in Visual Studio
-using System.Text.RegularExpressions; //keep line for use in Visual Studio
+using System;
+using System.Collections.Generic;
+using System.Net;
+using System.Text.RegularExpressions;
 
 public class Program
 {
